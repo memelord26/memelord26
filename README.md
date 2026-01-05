@@ -1,3 +1,5 @@
+<h1 align="center">Hi, I'm Phoebe</h1>
+
 # 💫 About Me:
 ⚡ A Computing Science Undergrad at SIT - UofG<br>🤝 Looking for September 2026 internship
 
